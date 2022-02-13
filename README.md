@@ -4,7 +4,7 @@ It was an amazing experiece working with Solbots Technologies Private Limited as
 
 <img src = "https://github.com/suhasmaddali/Data-Scientist-Solbots-Roles-and-Responsibilities/blob/main/images/Solbots%20bionic%20hand%20image.jpg" />
 
-Roles and Responsibilities
+## Roles and Responsibilities
 
 As a data scientist, I was mostly responsible in designing and building computer vision algorithms for the bionic hand. Following were my roles and responsibilities as a data scientist in Solbots Technologies Private Limited. 
 
