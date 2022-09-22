@@ -9,5 +9,5 @@ It was an amazing experiece working with __Solbots Technologies Private Limited_
 As a data scientist, I was mostly responsible in designing and building computer vision algorithms for the bionic hand. Following were my roles and responsibilities as a data scientist in Solbots Technologies Private Limited. 
 
 * Developed __Statistical Analysis__ and __Statistical Modelling__ Using Python to understand grip of bionic hand. 
-* Executed computer vision algorithms for image segmentation and recognition using OpenCV and Matplotlib.
+* Executed computer vision algorithms for image segmentation and recognition using __OpenCV__ and __Matplotlib__.
 * Oversaw my team in applying data analysis, data engineering and data mining methods for computer vision. 
