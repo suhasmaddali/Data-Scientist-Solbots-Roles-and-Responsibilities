@@ -6,7 +6,7 @@ It was an amazing experience working with [__Solbots Technologies__](https://www
 
 ## Roles and Responsibilities
 
-As a data scientist, I was mostly responsible for designing and building computer vision algorithms for the bionic hand. Following were my roles and responsibilities as a data scientist in Solbots Technologies. 
+As a data scientist, I was mostly responsible for designing and building computer vision algorithms for the bionic hand. Following were my roles and responsibilities as a data scientist in [Solbots Technologies](https://www.solbots.in/). 
 
 * Developed __Statistical Analysis__ and __Statistical Modelling__ Using Python to understand grip of bionic hand. 
 * Executed computer vision algorithms for image segmentation and recognition using __OpenCV__ and __Matplotlib__.
