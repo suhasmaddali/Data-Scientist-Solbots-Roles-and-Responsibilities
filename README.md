@@ -1,6 +1,6 @@
 # Data Scientist in Solbots Technologies
 
-It was an amazing experience working with [__Solbots Technologies__](https://www.solbots.in/) as a Data Scientist. __Solbots Technologies__ is a bionic hand company that specializes in providing and designing __robotic solutions__ to clients and to users who are in requirement of a bionic hand. This ensures that amputees (who lost their hand) get the most benefit and utilization with our bionic hand solution and ensures that they are happy. 
+It was an amazing experience working with [__Solbots Technologies__](https://www.solbots.in/) as a Data Scientist. [__Solbots Technologies__](https://www.solbots.in/) is a bionic hand company that specializes in providing and designing __robotic solutions__ to clients and to users who are in requirement of a bionic hand. This ensures that amputees (who lost their hand) get the most benefit and utilization with our bionic hand solution and ensures that they are happy. 
 
 <img src = "https://github.com/suhasmaddali/Data-Scientist-Solbots-Roles-and-Responsibilities/blob/main/images/Solbots%20bionic%20hand%20image.jpg" />
 
